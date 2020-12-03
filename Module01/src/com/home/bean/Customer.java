@@ -26,6 +26,7 @@ public class Customer {
         System.out.println("Customer2");
         System.out.println("Customer1");
         System.out.println("Customer4");
+        System.out.println("Customer9");
         System.out.println("Customer8");
         System.out.println("Customer5");
         System.out.println("Customer6");
